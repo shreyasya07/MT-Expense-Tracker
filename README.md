@@ -1,4 +1,4 @@
-# MERN Expense Tracker
+# MT Expense Tracker
 
 An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
 
